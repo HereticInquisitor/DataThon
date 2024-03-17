@@ -1,3 +1,8 @@
 # DataThon
 ## Team: Data Dynamo
-### Contact for queries: ayushraj7353@gmail.com
+### Members:
+### Priyam Saha
+### Ayush Raj
+### Sudip Datta
+### Puyush 
+### Contact for queries: puyushgupta786@gmail.com
